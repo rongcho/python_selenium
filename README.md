@@ -1,3 +1,4 @@
-# python_selenium
-- 자동화테스트를 위한 개인공부
-- selenium을 통한 웹크롤링 및 매크로
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=nightowl&show_icons=true)
+
