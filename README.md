@@ -1,4 +1,4 @@
+# python_selenium
+자동화테스트를 위한 개인작업실 
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rongcho&theme=nightowl&show_icons=true)
-
+selenium을 적용한 웹매크로 및 크롤링
