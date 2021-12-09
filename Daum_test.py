@@ -33,8 +33,8 @@ else:
     print("First : Fail")
 
 #미리저장한 아이디, 패스워드를 입력
-id = 'crkim_infiniq'
-pw = 'jinms528'
+id = '<아이디>'
+pw = '<패스워드>'
 
 driver.find_element_by_id('id'). send_keys(id)
 time.sleep(1.5)
